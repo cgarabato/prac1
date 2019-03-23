@@ -34,6 +34,6 @@ for art in articulos:
     #print(secciones[3].div)
     
     ##for i in range(len(secciones)):
-   ##     print("_----------------------------- ")
+   ##     print("_------- ")
    ##     print(secciones[i])
     ##print(art.meta["content"] + "contiene " + str(len(secciones)))
