@@ -34,6 +34,7 @@ bs = BeautifulSoup(page.content,features="lxml")
 articulos = bs.findAll('article')
 resultados = []
 
+#Lista de articulos
 listado_articulos = []
 
 encabezado = ["nombre", "color", "url", "talla"]
