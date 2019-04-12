@@ -24,5 +24,9 @@ La actividad ha sido realizada de manera individual por Carlos Garabatos.
 
 ## Ficheros del código fuente
 1. main.py: Contiene toda la implementación del proceso de scraping.
-1. wiki: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-1. csv: Resultado de la importación de datos.
+1. README.md: 
+1. csv: Resultado de la exportación de datos.
+
+## Desarrollo
+Se han enviado un mail al gestor la tienda, solicitandole permiso para el scraping, y no se ha recibido respuesta.
+Posteriormente, durante el proceso de desarrollo la web a sufrido cambios en la etiquetación de precios de las páginas de producto-detalle, las secciones de la cabecera(p.e. han suprimido la seccion homewear) y han modificado el fichero robots.txt.
